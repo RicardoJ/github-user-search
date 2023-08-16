@@ -10,21 +10,15 @@ const UserStatsSection: React.FC<UserStatsSectionProps> = ({
     <div className='user-stats'>
       <li className='stat'>
         <Typography component='span'>Repos</Typography>
-        <Typography component='strong' sx={{ fontWeight: 'bold' }}>
-          {publicRepos}
-        </Typography>
+        <Typography component='strong'>{publicRepos}</Typography>
       </li>
       <li className='stat'>
         <Typography component='span'>Followers</Typography>
-        <Typography component='strong' sx={{ fontWeight: 'bold' }}>
-          {followers}
-        </Typography>
+        <Typography component='strong'>{followers}</Typography>
       </li>
       <li className='stat'>
         <Typography component='span'>Following</Typography>
-        <Typography component='strong' sx={{ fontWeight: 'bold' }}>
-          {following}
-        </Typography>
+        <Typography component='strong'>{following}</Typography>
       </li>
     </div>
   );
