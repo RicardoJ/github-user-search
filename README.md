@@ -13,7 +13,7 @@ GitHub User Search is a simple web application that allows you to search for use
 1. Clone this repository: `git clone https://github.com/YourUsername/GitHubUserSearch.git`
 2. Install dependencies: `npm install`
 3. Run the application: `npm run dev`
-4. Open your browser and go to `http://localhost:3000`
+4. Open your browser and go to `http://localhost:5173`
 
 ## Storybook
 
