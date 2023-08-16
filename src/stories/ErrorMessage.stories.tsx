@@ -1,7 +1,7 @@
 import ErrorMessage from '../components/ErrorMessage';
 import { Meta, StoryFn } from '@storybook/react';
 import { ErrorMessageProps } from '../types';
-import '../GitHubUserSearch.css';
+import '../githubUserSearch.css';
 
 export default {
   title: 'Components/ErrorMessage',

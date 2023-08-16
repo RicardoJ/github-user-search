@@ -1,6 +1,6 @@
 import { lazy, Suspense } from 'react';
 import { Typography } from '@mui/material';
-import './GitHubUserSearch.css';
+import './githubUserSearch.css';
 import { useGitHubSearch } from './hooks/useGitHubSearch';
 
 const ErrorMessage = lazy(() => import('./components/ErrorMessage'));

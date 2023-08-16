@@ -1,7 +1,7 @@
 import AvatarSection from '../components/AvatarSection';
 import { Meta, StoryFn } from '@storybook/react';
 import { AvatarSectionProps } from '../types';
-import '../GitHubUserSearch.css';
+import '../githubUserSearch.css';
 
 export default {
   title: 'Components/AvatarSection',

@@ -1,7 +1,7 @@
 import { StoryFn, Meta } from '@storybook/react';
 import UserStatsSection from '../components/UserStatsSection';
 import { UserStatsSectionProps } from '../types';
-import '../GitHubUserSearch.css';
+import '../githubUserSearch.css';
 
 export default {
   title: 'Components/UserStatsSection',

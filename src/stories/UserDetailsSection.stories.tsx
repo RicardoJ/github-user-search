@@ -1,7 +1,7 @@
 import UserDetailsSection from '../components/UserDetailsSection';
 import { Meta, StoryFn } from '@storybook/react';
 import { UserDetailsSectionProps } from '../types';
-import '../GitHubUserSearch.css';
+import '../githubUserSearch.css';
 
 export default {
   title: 'Components/UserDetailsSection',

@@ -1,7 +1,7 @@
 import { Meta, StoryFn } from '@storybook/react';
 import { UserInfoProps } from '../types';
 import UserInfo from '../components/UserInfo';
-import '../GitHubUserSearch.css';
+import '../githubUserSearch.css';
 
 export default {
   title: 'Components/UserInfo',

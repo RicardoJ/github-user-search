@@ -1,7 +1,7 @@
 import SearchForm from '../components/SearchForm';
 import { Meta, StoryFn } from '@storybook/react';
 import { SearchFormProps } from '../types';
-import '../GitHubUserSearch.css';
+import '../githubUserSearch.css';
 
 export default {
   component: SearchForm,
